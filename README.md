@@ -19,10 +19,10 @@ The second version is useful for algorithms like PPO, A3C, and D4PG that use mul
 I solved the environment using the first version with just a single agent. According to project requirements, the agent must get an average score of +30 over 100 consecutive episodes to be considered solved.
 
 # Requirements
-pip install unityagents
-pip install numpy
-pip install matplotlib
-install pytorch following the instructions on the pytorch website: https://pytorch.org/get-started/locally/
+* pip install unityagents
+* pip install numpy
+* pip install matplotlib
+* install pytorch following the instructions on the pytorch website: https://pytorch.org/get-started/locally/
 
 # Instruction
 
